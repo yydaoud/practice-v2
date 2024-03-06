@@ -3,7 +3,7 @@ public class MyFile {
 
 		for(int i=1;i<=10;i++) {
 
-			System.out.println("Duaa and Ahmed"+i);
+			System.out.println("ehhe"+i);
 		}
 	}
 }
